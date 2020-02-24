@@ -1,5 +1,5 @@
 {
-  "name": "@editorjs/image",
+  "name": "@socialbet/editor-js-image",
   "version": "2.3.3",
   "keywords": [
     "codex editor",
@@ -8,9 +8,9 @@
     "editor.js",
     "editorjs"
   ],
-  "description": "Image Tool for Editor.js",
+  "description": "Socialbet fork: Image Tool for Editor.js",
   "license": "MIT",
-  "repository": "https://github.com/editor-js/image",
+  "repository": "https://github.com/brlabrussia/editor.js-image",
   "main": "./dist/bundle.js",
   "scripts": {
     "build": "webpack --mode production",

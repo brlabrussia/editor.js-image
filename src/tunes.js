@@ -25,17 +25,17 @@ export default class Tunes {
       {
         name: 'withBorder',
         icon: borderIcon,
-        title: 'With border'
+        title: 'Добавить рамку'
       },
       {
         name: 'stretched',
         icon: stretchedIcon,
-        title: 'Stretch image'
+        title: 'Растянуть'
       },
       {
         name: 'withBackground',
         icon: bgIcon,
-        title: 'With background'
+        title: 'Добавить фон'
       }
     ];
   }
